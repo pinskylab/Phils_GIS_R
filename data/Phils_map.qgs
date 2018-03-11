@@ -3,7 +3,7 @@
     <title></title>
     <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
         <customproperties/>
-        <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="Tracks">
+        <layer-tree-group expanded="0" checked="Qt::PartiallyChecked" name="Tracks">
             <customproperties/>
             <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="2012_tracks20180307053241668" name="2012_tracks">
                 <customproperties/>
@@ -92,10 +92,7 @@
         </layer-tree-group>
         <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="Anems">
             <customproperties/>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="GPSSurvey_anemlatlon_forQGIS_2018_2018_03_1120180311082454794" name="GPSSurvey_anemlatlon_forQGIS_2018_2018-03-11">
-                <customproperties/>
-            </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Checked" id="GPSSurvey_anemlatlon_forQGIS_2018_2018_03_0720180307072711833" name="GPSSurvey_anemlatlon_forQGIS_2018_2018-03-07">
+            <layer-tree-layer expanded="1" checked="Qt::Checked" id="GPSSurvey_anemlatlon_forQGIS_2018_2018_03_1220180312073531558" name="GPSSurvey_anemlatlon_forQGIS_2018_2018-03-12">
                 <customproperties/>
             </layer-tree-layer>
             <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="2012_anems20180307055056883" name="2012_anems">
@@ -191,10 +188,10 @@
     <mapcanvas>
         <units>degrees</units>
         <extent>
-            <xmin>124.7119615091289262</xmin>
-            <ymin>10.87017246708827756</ymin>
-            <xmax>124.71604713307409895</xmax>
-            <ymax>10.87285077169817882</ymax>
+            <xmin>124.77550169217288101</xmin>
+            <ymin>10.63322587359042792</ymin>
+            <xmax>124.77797789073805745</xmax>
+            <ymax>10.63484912970042906</ymax>
         </extent>
         <projections>1</projections>
         <destinationsrs>
@@ -421,8 +418,8 @@
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="tracks20150123211439835"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="tracks20170901155459470"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="tracks20170601155857880"/>
-            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="tracks20150607200248870"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gps4_SitioBaybayon_1520180311203047252"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="tracks20150607200248870"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="GPS4_Track_2015_01_15_1339_tracks20171116153615759"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Untitled820170901161145624"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="tracks20151207114402374"/>
@@ -815,6 +812,7 @@
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="tracks20151207114322466"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="tracks20170520045639980"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="tracks20170520045631418"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="GPSSurvey_anemlatlon_forQGIS_2018_2018_03_1220180312073531558"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="tracks20160512061437716"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="tracks20160512061343504"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="tracks20150114213723015"/>
@@ -1156,9 +1154,9 @@
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Pal420170524110502988"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Track_17_JUN_14_083654_AM__tracks20140629195551484"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="tracks20170517200343709"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="2018_tracks20180311204011592"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="GPS1_Track_2015_01_13_1256_tracks20171116153528626"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gps4_5920170901155714864"/>
-            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="2018_tracks20180311204011592"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="tracks20150113201834375"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="GPSSurvey_anemlatlong2015_01_2015_07_15_for_QGIS_copy20170530063236903"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="2017_tracks20170901162253645"/>
@@ -1762,10 +1760,8 @@
             <item>2017_09_20_GPSSurvey_anemlatlong_2014_forQGIS20180307054654364</item>
             <item>2017_09_20_GPSSurvey_anemlatlong_2013_forQGIS20180307055006039</item>
             <item>2012_anems20180307055056883</item>
-            <item>GPSSurvey_anemlatlon_forQGIS_2018_2018_03_0720180307072711833</item>
             <item>gps4_Magbangon_120180308193829732</item>
             <item>gps4_Wangag_120180308193829872</item>
-            <item>GPSSurvey_anemlatlon_forQGIS_2018_2018_03_1120180311082454794</item>
             <item>gps4_Wangag_1120180311202830113</item>
             <item>gps4_Wangag_1020180311202907219</item>
             <item>gps4_Wangag_1320180311202949873</item>
@@ -1775,10 +1771,11 @@
             <item>gps4_Wangag_920180311203831645</item>
             <item>gps4_Wangag_820180311203853248</item>
             <item>2018_tracks20180311204011592</item>
+            <item>GPSSurvey_anemlatlon_forQGIS_2018_2018_03_1220180312073531558</item>
         </custom-order>
     </layer-tree-canvas>
     <legend updateDrawingOrder="true">
-        <legendgroup open="true" checked="Qt::PartiallyChecked" name="Tracks">
+        <legendgroup open="false" checked="Qt::PartiallyChecked" name="Tracks">
             <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="2012_tracks" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
                     <legendlayerfile isInOverview="0" layerid="2012_tracks20180307053241668" visible="0"/>
@@ -1921,14 +1918,9 @@
             </legendlayer>
         </legendgroup>
         <legendgroup open="true" checked="Qt::PartiallyChecked" name="Anems">
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="GPSSurvey_anemlatlon_forQGIS_2018_2018-03-11" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="GPSSurvey_anemlatlon_forQGIS_2018_2018-03-12" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="GPSSurvey_anemlatlon_forQGIS_2018_2018_03_1120180311082454794" visible="1"/>
-                </filegroup>
-            </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="GPSSurvey_anemlatlon_forQGIS_2018_2018-03-07" showFeatureCount="0">
-                <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="GPSSurvey_anemlatlon_forQGIS_2018_2018_03_0720180307072711833" visible="1"/>
+                    <legendlayerfile isInOverview="0" layerid="GPSSurvey_anemlatlon_forQGIS_2018_2018_03_1220180312073531558" visible="1"/>
                 </filegroup>
             </legendlayer>
             <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="2012_anems" showFeatureCount="0">
@@ -2147,7 +2139,7 @@
             </ComposerMap>
         </Composition>
     </Composer>
-    <projectlayers layercount="57">
+    <projectlayers layercount="56">
         <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
             <id>2012_anems20180307055056883</id>
             <datasource>file:./Anems/2017-09-20_GPSSurvey_anemlatlong_2012_forQGIS.csv?type=csv&amp;xField=lon&amp;yField=lat&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=no</datasource>
@@ -4519,10 +4511,10 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -5858,14 +5850,14 @@
             </edittypes>
         </maplayer>
         <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-            <id>GPSSurvey_anemlatlon_forQGIS_2018_2018_03_0720180307072711833</id>
-            <datasource>file:./Anems/GPSSurvey_anemlatlon_forQGIS_2018_2018-03-07.csv?type=csv&amp;xField=mlon&amp;yField=mlat&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=no</datasource>
+            <id>GPSSurvey_anemlatlon_forQGIS_2018_2018_03_1220180312073531558</id>
+            <datasource>file:./Anems/GPSSurvey_anemlatlon_forQGIS_2018_2018-03-12.csv?type=csv&amp;xField=mlon&amp;yField=mlat&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=no</datasource>
             <title></title>
             <abstract></abstract>
             <keywordList>
                 <value></value>
             </keywordList>
-            <layername>GPSSurvey_anemlatlon_forQGIS_2018_2018-03-07</layername>
+            <layername>GPSSurvey_anemlatlon_forQGIS_2018_2018-03-12</layername>
             <srs>
                 <spatialrefsys>
                     <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
@@ -5898,7 +5890,7 @@
                     <symbol alpha="1" type="marker" name="0">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="93,213,101,255"/>
+                            <prop k="color" v="64,144,58,255"/>
                             <prop k="horizontal_anchor_point" v="1"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -6088,261 +6080,10 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform>.</editform>
+            <editform></editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform>.</annotationform>
-            <editorlayout>generatedlayout</editorlayout>
-            <excludeAttributesWMS/>
-            <excludeAttributesWFS/>
-            <attributeactions/>
-            <edittypes>
-                <edittype widgetv2type="TextEdit" name="anem_id">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="mlat">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="mlon">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-            </edittypes>
-        </maplayer>
-        <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-            <id>GPSSurvey_anemlatlon_forQGIS_2018_2018_03_1120180311082454794</id>
-            <datasource>file:./Anems/GPSSurvey_anemlatlon_forQGIS_2018_2018-03-11.csv?type=csv&amp;xField=mlon&amp;yField=mlat&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=no</datasource>
-            <title></title>
-            <abstract></abstract>
-            <keywordList>
-                <value></value>
-            </keywordList>
-            <layername>GPSSurvey_anemlatlon_forQGIS_2018_2018-03-11</layername>
-            <srs>
-                <spatialrefsys>
-                    <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
-                    <srsid>3452</srsid>
-                    <srid>4326</srid>
-                    <authid>EPSG:4326</authid>
-                    <description>WGS 84</description>
-                    <projectionacronym>longlat</projectionacronym>
-                    <ellipsoidacronym>WGS84</ellipsoidacronym>
-                    <geographicflag>true</geographicflag>
-                </spatialrefsys>
-            </srs>
-            <provider encoding="System">delimitedtext</provider>
-            <previewExpression></previewExpression>
-            <vectorjoins/>
-            <expressionfields/>
-            <edittypes>
-                <edittype widgetv2type="TextEdit" name="anem_id">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="mlat">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-                <edittype widgetv2type="TextEdit" name="mlon">
-                    <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
-                </edittype>
-            </edittypes>
-            <renderer-v2 symbollevels="0" type="singleSymbol">
-                <symbols>
-                    <symbol alpha="1" type="marker" name="0">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="7,27,208,255"/>
-                            <prop k="horizontal_anchor_point" v="1"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_map_unit_scale" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_color" v="0,0,0,255"/>
-                            <prop k="outline_style" v="solid"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_map_unit_scale" v="0,0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_map_unit_scale" v="0,0"/>
-                            <prop k="size_unit" v="MM"/>
-                            <prop k="vertical_anchor_point" v="1"/>
-                        </layer>
-                    </symbol>
-                </symbols>
-                <rotation/>
-                <sizescale scalemethod="area"/>
-            </renderer-v2>
-            <customproperties>
-                <property key="labeling" value="pal"/>
-                <property key="labeling/addDirectionSymbol" value="false"/>
-                <property key="labeling/angleOffset" value="0"/>
-                <property key="labeling/blendMode" value="0"/>
-                <property key="labeling/bufferBlendMode" value="0"/>
-                <property key="labeling/bufferColorA" value="255"/>
-                <property key="labeling/bufferColorB" value="255"/>
-                <property key="labeling/bufferColorG" value="255"/>
-                <property key="labeling/bufferColorR" value="255"/>
-                <property key="labeling/bufferDraw" value="false"/>
-                <property key="labeling/bufferJoinStyle" value="64"/>
-                <property key="labeling/bufferNoFill" value="false"/>
-                <property key="labeling/bufferSize" value="1"/>
-                <property key="labeling/bufferSizeInMapUnits" value="false"/>
-                <property key="labeling/bufferSizeMapUnitMaxScale" value="0"/>
-                <property key="labeling/bufferSizeMapUnitMinScale" value="0"/>
-                <property key="labeling/bufferTransp" value="0"/>
-                <property key="labeling/centroidInside" value="false"/>
-                <property key="labeling/centroidWhole" value="false"/>
-                <property key="labeling/decimals" value="3"/>
-                <property key="labeling/displayAll" value="false"/>
-                <property key="labeling/dist" value="0"/>
-                <property key="labeling/distInMapUnits" value="false"/>
-                <property key="labeling/distMapUnitMaxScale" value="0"/>
-                <property key="labeling/distMapUnitMinScale" value="0"/>
-                <property key="labeling/enabled" value="true"/>
-                <property key="labeling/fieldName" value="anem_id"/>
-                <property key="labeling/fontBold" value="false"/>
-                <property key="labeling/fontCapitals" value="0"/>
-                <property key="labeling/fontFamily" value=".SF NS Text"/>
-                <property key="labeling/fontItalic" value="false"/>
-                <property key="labeling/fontLetterSpacing" value="0"/>
-                <property key="labeling/fontLimitPixelSize" value="false"/>
-                <property key="labeling/fontMaxPixelSize" value="10000"/>
-                <property key="labeling/fontMinPixelSize" value="3"/>
-                <property key="labeling/fontSize" value="13"/>
-                <property key="labeling/fontSizeInMapUnits" value="false"/>
-                <property key="labeling/fontSizeMapUnitMaxScale" value="0"/>
-                <property key="labeling/fontSizeMapUnitMinScale" value="0"/>
-                <property key="labeling/fontStrikeout" value="false"/>
-                <property key="labeling/fontUnderline" value="false"/>
-                <property key="labeling/fontWeight" value="50"/>
-                <property key="labeling/fontWordSpacing" value="0"/>
-                <property key="labeling/formatNumbers" value="false"/>
-                <property key="labeling/isExpression" value="false"/>
-                <property key="labeling/labelOffsetInMapUnits" value="true"/>
-                <property key="labeling/labelOffsetMapUnitMaxScale" value="0"/>
-                <property key="labeling/labelOffsetMapUnitMinScale" value="0"/>
-                <property key="labeling/labelPerPart" value="false"/>
-                <property key="labeling/leftDirectionSymbol" value="&lt;"/>
-                <property key="labeling/limitNumLabels" value="false"/>
-                <property key="labeling/maxCurvedCharAngleIn" value="20"/>
-                <property key="labeling/maxCurvedCharAngleOut" value="-20"/>
-                <property key="labeling/maxNumLabels" value="2000"/>
-                <property key="labeling/mergeLines" value="false"/>
-                <property key="labeling/minFeatureSize" value="0"/>
-                <property key="labeling/multilineAlign" value="0"/>
-                <property key="labeling/multilineHeight" value="1"/>
-                <property key="labeling/namedStyle" value=""/>
-                <property key="labeling/obstacle" value="true"/>
-                <property key="labeling/placeDirectionSymbol" value="0"/>
-                <property key="labeling/placement" value="0"/>
-                <property key="labeling/placementFlags" value="0"/>
-                <property key="labeling/plussign" value="false"/>
-                <property key="labeling/preserveRotation" value="true"/>
-                <property key="labeling/previewBkgrdColor" value="#ffffff"/>
-                <property key="labeling/priority" value="5"/>
-                <property key="labeling/quadOffset" value="4"/>
-                <property key="labeling/repeatDistance" value="0"/>
-                <property key="labeling/repeatDistanceMapUnitMaxScale" value="0"/>
-                <property key="labeling/repeatDistanceMapUnitMinScale" value="0"/>
-                <property key="labeling/repeatDistanceUnit" value="1"/>
-                <property key="labeling/reverseDirectionSymbol" value="false"/>
-                <property key="labeling/rightDirectionSymbol" value=">"/>
-                <property key="labeling/scaleMax" value="10000000"/>
-                <property key="labeling/scaleMin" value="1"/>
-                <property key="labeling/scaleVisibility" value="false"/>
-                <property key="labeling/shadowBlendMode" value="6"/>
-                <property key="labeling/shadowColorB" value="0"/>
-                <property key="labeling/shadowColorG" value="0"/>
-                <property key="labeling/shadowColorR" value="0"/>
-                <property key="labeling/shadowDraw" value="false"/>
-                <property key="labeling/shadowOffsetAngle" value="135"/>
-                <property key="labeling/shadowOffsetDist" value="1"/>
-                <property key="labeling/shadowOffsetGlobal" value="true"/>
-                <property key="labeling/shadowOffsetMapUnitMaxScale" value="0"/>
-                <property key="labeling/shadowOffsetMapUnitMinScale" value="0"/>
-                <property key="labeling/shadowOffsetUnits" value="1"/>
-                <property key="labeling/shadowRadius" value="1.5"/>
-                <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
-                <property key="labeling/shadowRadiusMapUnitMaxScale" value="0"/>
-                <property key="labeling/shadowRadiusMapUnitMinScale" value="0"/>
-                <property key="labeling/shadowRadiusUnits" value="1"/>
-                <property key="labeling/shadowScale" value="100"/>
-                <property key="labeling/shadowTransparency" value="30"/>
-                <property key="labeling/shadowUnder" value="0"/>
-                <property key="labeling/shapeBlendMode" value="0"/>
-                <property key="labeling/shapeBorderColorA" value="255"/>
-                <property key="labeling/shapeBorderColorB" value="128"/>
-                <property key="labeling/shapeBorderColorG" value="128"/>
-                <property key="labeling/shapeBorderColorR" value="128"/>
-                <property key="labeling/shapeBorderWidth" value="0"/>
-                <property key="labeling/shapeBorderWidthMapUnitMaxScale" value="0"/>
-                <property key="labeling/shapeBorderWidthMapUnitMinScale" value="0"/>
-                <property key="labeling/shapeBorderWidthUnits" value="1"/>
-                <property key="labeling/shapeDraw" value="false"/>
-                <property key="labeling/shapeFillColorA" value="255"/>
-                <property key="labeling/shapeFillColorB" value="255"/>
-                <property key="labeling/shapeFillColorG" value="255"/>
-                <property key="labeling/shapeFillColorR" value="255"/>
-                <property key="labeling/shapeJoinStyle" value="64"/>
-                <property key="labeling/shapeOffsetMapUnitMaxScale" value="0"/>
-                <property key="labeling/shapeOffsetMapUnitMinScale" value="0"/>
-                <property key="labeling/shapeOffsetUnits" value="1"/>
-                <property key="labeling/shapeOffsetX" value="0"/>
-                <property key="labeling/shapeOffsetY" value="0"/>
-                <property key="labeling/shapeRadiiMapUnitMaxScale" value="0"/>
-                <property key="labeling/shapeRadiiMapUnitMinScale" value="0"/>
-                <property key="labeling/shapeRadiiUnits" value="1"/>
-                <property key="labeling/shapeRadiiX" value="0"/>
-                <property key="labeling/shapeRadiiY" value="0"/>
-                <property key="labeling/shapeRotation" value="0"/>
-                <property key="labeling/shapeRotationType" value="0"/>
-                <property key="labeling/shapeSVGFile" value=""/>
-                <property key="labeling/shapeSizeMapUnitMaxScale" value="0"/>
-                <property key="labeling/shapeSizeMapUnitMinScale" value="0"/>
-                <property key="labeling/shapeSizeType" value="0"/>
-                <property key="labeling/shapeSizeUnits" value="1"/>
-                <property key="labeling/shapeSizeX" value="0"/>
-                <property key="labeling/shapeSizeY" value="0"/>
-                <property key="labeling/shapeTransparency" value="0"/>
-                <property key="labeling/shapeType" value="0"/>
-                <property key="labeling/textColorA" value="255"/>
-                <property key="labeling/textColorB" value="0"/>
-                <property key="labeling/textColorG" value="0"/>
-                <property key="labeling/textColorR" value="0"/>
-                <property key="labeling/textTransp" value="0"/>
-                <property key="labeling/upsidedownLabels" value="0"/>
-                <property key="labeling/wrapChar" value=""/>
-                <property key="labeling/xOffset" value="0"/>
-                <property key="labeling/yOffset" value="0"/>
-            </customproperties>
-            <blendMode>0</blendMode>
-            <featureBlendMode>0</featureBlendMode>
-            <layerTransparency>0</layerTransparency>
-            <displayfield>anem_id</displayfield>
-            <label>0</label>
-            <labelattributes>
-                <label fieldname="" text="Label"/>
-                <family fieldname="" name=".SF NS Text"/>
-                <size fieldname="" units="pt" value="12"/>
-                <bold fieldname="" on="0"/>
-                <italic fieldname="" on="0"/>
-                <underline fieldname="" on="0"/>
-                <strikeout fieldname="" on="0"/>
-                <color fieldname="" red="0" blue="0" green="0"/>
-                <x fieldname=""/>
-                <y fieldname=""/>
-                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
-                <angle fieldname="" value="0" auto="0"/>
-                <alignment fieldname="" value="center"/>
-                <buffercolor fieldname="" red="255" blue="255" green="255"/>
-                <buffersize fieldname="" units="pt" value="1"/>
-                <bufferenabled fieldname="" on=""/>
-                <multilineenabled fieldname="" on=""/>
-                <selectedonly on=""/>
-            </labelattributes>
-            <editform>.</editform>
-            <editforminit></editforminit>
-            <featformsuppress>0</featformsuppress>
-            <annotationform>.</annotationform>
+            <annotationform></annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -12064,10 +11805,10 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -12237,10 +11978,10 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -12583,10 +12324,10 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -12756,10 +12497,10 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -13102,10 +12843,10 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -13275,10 +13016,10 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -13448,10 +13189,10 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -13621,10 +13362,10 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -14597,13 +14338,12 @@
                 <value>2017_09_20_GPSSurvey_anemlatlong_2014_forQGIS20180307054654364</value>
                 <value>2017_09_21_GPSSurvey_anemlatlong_2015_forQGIS20180307054552490</value>
                 <value>2017_tracks20180307053356572</value>
+                <value>2018_tracks20180311204011592</value>
                 <value>Caridad_Cemetery_Hull20170901154017202</value>
                 <value>Caridad_Proper_Hull20170901154017214</value>
                 <value>Elementary_School_Hull20170901154017240</value>
                 <value>GPSSurvey_anemlatlon_forQGIS_2016_2018_03_0520180307054456539</value>
                 <value>GPSSurvey_anemlatlon_forQGIS_2017_2018_03_0520180307054331035</value>
-                <value>GPSSurvey_anemlatlon_forQGIS_2018_2018_03_0720180307072711833</value>
-                <value>GPSSurvey_anemlatlon_forQGIS_2018_2018_03_1120180311082454794</value>
                 <value>Gabas_Hull20170901154017248</value>
                 <value>Haina_Hull20170901154017255</value>
                 <value>Magbangon_Cabatoan_Hull20170901154017263</value>
@@ -14627,25 +14367,24 @@
                 <value>gps4_Palanas_320180307053426427</value>
                 <value>gps4_Palanas_420180307053754559</value>
                 <value>gps4_Palanas_520180307053815075</value>
+                <value>gps4_SitioBaybayon_1420180311203115257</value>
+                <value>gps4_SitioBaybayon_1520180311203047252</value>
                 <value>gps4_Visca_120180307053426450</value>
+                <value>gps4_Wangag_1020180311202907219</value>
+                <value>gps4_Wangag_1120180311202830113</value>
                 <value>gps4_Wangag_120180308193829872</value>
+                <value>gps4_Wangag_1220180311203014745</value>
+                <value>gps4_Wangag_1320180311202949873</value>
+                <value>gps4_Wangag_820180311203853248</value>
+                <value>gps4_Wangag_920180311203831645</value>
                 <value>gps5_Palanas_220180307053426473</value>
                 <value>gps5_Palanas_320180307053426500</value>
                 <value>gps5_Palanas_420180307053831360</value>
                 <value>gps5_Palanas_520180307053847377</value>
                 <value>gps5_Visca_120180307053426522</value>
-                <value>gps4_Wangag_1120180311202830113</value>
-                <value>gps4_Wangag_1020180311202907219</value>
-                <value>gps4_Wangag_1320180311202949873</value>
-                <value>gps4_Wangag_1220180311203014745</value>
-                <value>gps4_SitioBaybayon_1520180311203047252</value>
-                <value>gps4_SitioBaybayon_1420180311203115257</value>
-                <value>gps4_Wangag_920180311203831645</value>
-                <value>gps4_Wangag_820180311203853248</value>
-                <value>2018_tracks20180311204011592</value>
+                <value>GPSSurvey_anemlatlon_forQGIS_2018_2018_03_1220180312073531558</value>
             </LayerSnappingList>
             <LayerSnappingEnabledList type="QStringList">
-                <value>enabled</value>
                 <value>enabled</value>
                 <value>enabled</value>
                 <value>enabled</value>
@@ -14762,10 +14501,8 @@
                 <value>0</value>
                 <value>0</value>
                 <value>0</value>
-                <value>0</value>
             </LayerSnappingToleranceUnitList>
             <LayerSnapToList type="QStringList">
-                <value>to_vertex</value>
                 <value>to_vertex</value>
                 <value>to_vertex</value>
                 <value>to_vertex</value>
@@ -14826,7 +14563,6 @@
             <DefaultSnapType type="QString">off</DefaultSnapType>
             <DefaultSnapTolerance type="double">0</DefaultSnapTolerance>
             <LayerSnappingToleranceList type="QStringList">
-                <value>0.000000</value>
                 <value>0.000000</value>
                 <value>0.000000</value>
                 <value>0.000000</value>
