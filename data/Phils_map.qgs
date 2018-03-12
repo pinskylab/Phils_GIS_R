@@ -107,10 +107,10 @@
             <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="2017_09_20_GPSSurvey_anemlatlong_2013_forQGIS20180307055006039" name="2013_anems">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="2017_09_20_GPSSurvey_anemlatlong_2014_forQGIS20180307054654364" name="2014_anems">
+            <layer-tree-layer expanded="1" checked="Qt::Checked" id="2017_09_20_GPSSurvey_anemlatlong_2014_forQGIS20180307054654364" name="2014_anems">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="2017_09_21_GPSSurvey_anemlatlong_2015_forQGIS20180307054552490" name="2015_anems">
+            <layer-tree-layer expanded="1" checked="Qt::Checked" id="2017_09_21_GPSSurvey_anemlatlong_2015_forQGIS20180307054552490" name="2015_anems">
                 <customproperties/>
             </layer-tree-layer>
             <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="GPSSurvey_anemlatlon_forQGIS_2016_2018_03_0520180307054456539" name="2016_anems">
@@ -194,10 +194,10 @@
     <mapcanvas>
         <units>degrees</units>
         <extent>
-            <xmin>124.77512482666935512</xmin>
-            <ymin>10.63309266800654029</ymin>
-            <xmax>124.77888933584591769</xmax>
-            <ymax>10.63556046788654896</ymax>
+            <xmin>124.77502930070264142</xmin>
+            <ymin>10.63437823289830142</ymin>
+            <xmax>124.77682664683189273</xmax>
+            <ymax>10.63555647164180762</ymax>
         </extent>
         <projections>1</projections>
         <destinationsrs>
@@ -1956,14 +1956,14 @@
                     <legendlayerfile isInOverview="0" layerid="2017_09_20_GPSSurvey_anemlatlong_2013_forQGIS20180307055006039" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="2014_anems" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="2014_anems" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="2017_09_20_GPSSurvey_anemlatlong_2014_forQGIS20180307054654364" visible="0"/>
+                    <legendlayerfile isInOverview="0" layerid="2017_09_20_GPSSurvey_anemlatlong_2014_forQGIS20180307054654364" visible="1"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="2015_anems" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="2015_anems" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="2017_09_21_GPSSurvey_anemlatlong_2015_forQGIS20180307054552490" visible="0"/>
+                    <legendlayerfile isInOverview="0" layerid="2017_09_21_GPSSurvey_anemlatlong_2015_forQGIS20180307054552490" visible="1"/>
                 </filegroup>
             </legendlayer>
             <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="2016_anems" showFeatureCount="0">
