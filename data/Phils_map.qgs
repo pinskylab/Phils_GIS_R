@@ -29,10 +29,10 @@
             <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="2017_09_20_GPSSurvey_anemlatlong_2014_forQGIS20180307054654364" name="2014_anems">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="2017_09_21_GPSSurvey_anemlatlong_2015_forQGIS20180307054552490" name="2015_anems">
+            <layer-tree-layer expanded="1" checked="Qt::Checked" id="2017_09_21_GPSSurvey_anemlatlong_2015_forQGIS20180307054552490" name="2015_anems">
                 <customproperties/>
             </layer-tree-layer>
-            <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="GPSSurvey_anemlatlon_forQGIS_2016_2018_03_0520180307054456539" name="2016_anems">
+            <layer-tree-layer expanded="1" checked="Qt::Checked" id="GPSSurvey_anemlatlon_forQGIS_2016_2018_03_0520180307054456539" name="2016_anems">
                 <customproperties/>
             </layer-tree-layer>
             <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="GPSSurvey_anemlatlon_forQGIS_2017_2018_03_0520180307054331035" name="2017_anems">
@@ -338,10 +338,10 @@
     <mapcanvas>
         <units>degrees</units>
         <extent>
-            <xmin>124.71035251580750014</xmin>
-            <ymin>10.87346280587757619</ymin>
-            <xmax>124.71121532821803157</xmax>
-            <ymax>10.87402841702721901</ymax>
+            <xmin>124.77754220012423048</xmin>
+            <ymin>10.64934656072671437</ymin>
+            <xmax>124.78852253851169962</xmax>
+            <ymax>10.65654465123043515</ymax>
         </extent>
         <projections>1</projections>
         <destinationsrs>
@@ -357,11 +357,12 @@
             </spatialrefsys>
         </destinationsrs>
         <layer_coordinate_transform_info>
-            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gps4_Wangag_120180308193829872"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gps5_Visca_120180307053426522"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gps4_Wangag_120180308193829872"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gps6_3920180326063820125"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="2018_tracks20180328140746505"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="sitio_2320180316190201194"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="2017_09_21_GPSSurvey_anemlatlong_2015_forQGIS20180307054552490"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gps4_2420180320115319807"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gps5_3620180328140450655"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gps4_Palanas_220180307053426400"/>
@@ -384,8 +385,8 @@
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gps5_2620180320115016629"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="2018_tracks20180328140549609"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gps5_Palanas_320180307053426500"/>
-            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="2018_tracks20180326063851758"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gps5_Palanas_220180307053426473"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="2018_tracks20180326063851758"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:32651" srcDatumTransform="-1" destDatumTransform="-1" layerid="Gabas_Hull20170901154017248"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gps4_SitioBaybayon_1720180312214605613"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:32651" srcDatumTransform="-1" destDatumTransform="-1" layerid="Sitio_Tugas_Hull20170901154017354"/>
@@ -394,14 +395,15 @@
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:32651" srcDatumTransform="-1" destDatumTransform="-1" layerid="Wangag_Hull20170901154017379"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gps4_Magbangon_120180308193829732"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="tracks20180328140338575"/>
-            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gps4_Wangag_1020180311202907219"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gps5_Palanas_520180307053847377"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gps4_Wangag_1020180311202907219"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gps6_3420180323063138172"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:32651" srcDatumTransform="-1" destDatumTransform="-1" layerid="Tamakin_Dacot_Hull20170901154017362"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Sitenames20170901154017323"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="GPSSurvey_anemlatlon_forQGIS_2016_2018_03_0520180307054456539"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="2012_tracks20180307053241668"/>
-            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:32651" srcDatumTransform="-1" destDatumTransform="-1" layerid="Sitio_Lonas_Hull20170901154017346"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gps5_Palanas_420180307053831360"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:32651" srcDatumTransform="-1" destDatumTransform="-1" layerid="Sitio_Lonas_Hull20170901154017346"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:32651" srcDatumTransform="-1" destDatumTransform="-1" layerid="San_Agustin_Hull20170901154017315"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gps4_4020180326063459149"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="coastlines_leyte20170901154017232"/>
@@ -614,14 +616,14 @@
                     <legendlayerfile isInOverview="0" layerid="2017_09_20_GPSSurvey_anemlatlong_2014_forQGIS20180307054654364" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="2015_anems" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="2015_anems" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="2017_09_21_GPSSurvey_anemlatlong_2015_forQGIS20180307054552490" visible="0"/>
+                    <legendlayerfile isInOverview="0" layerid="2017_09_21_GPSSurvey_anemlatlong_2015_forQGIS20180307054552490" visible="1"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="2016_anems" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="2016_anems" showFeatureCount="0">
                 <filegroup open="true" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="GPSSurvey_anemlatlon_forQGIS_2016_2018_03_0520180307054456539" visible="0"/>
+                    <legendlayerfile isInOverview="0" layerid="GPSSurvey_anemlatlon_forQGIS_2016_2018_03_0520180307054456539" visible="1"/>
                 </filegroup>
             </legendlayer>
             <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="2017_anems" showFeatureCount="0">
@@ -1129,7 +1131,7 @@
             <ComposerLabel valign="32" labelText="Palanas North" htmlState="0" halign="1" margin="1">
                 <LabelFont description=".SF NS Text,10,-1,5,50,0,0,0,0,0"/>
                 <FontColor red="0" blue="0" green="0"/>
-                <ComposerItem pagey="17.7466" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="233.583" y="17.7466" visibility="1" zValue="58" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="33.8133" outlineWidth="0.3" excludeFromExports="0" uuid="{dbd47871-062a-4516-8fba-9d9d42fae48b}" height="5.49844" itemRotation="0" frame="false" pagex="233.583">
+                <ComposerItem pagey="17.7466" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="233.583" y="17.7466" visibility="1" zValue="7" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="33.8133" outlineWidth="0.3" excludeFromExports="0" uuid="{dbd47871-062a-4516-8fba-9d9d42fae48b}" height="5.49844" itemRotation="0" frame="false" pagex="233.583">
                     <FrameColor alpha="255" red="0" blue="0" green="0"/>
                     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
                 </ComposerItem>
@@ -1158,7 +1160,7 @@
                 </lineStyle>
                 <StartPoint x="109.357" y="198.09"/>
                 <StopPoint x="146.769" y="190.416"/>
-                <ComposerItem pagey="187.709" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="106.65" y="187.709" visibility="1" zValue="57" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="42.8259" outlineWidth="0.3" excludeFromExports="0" uuid="{ebc755d7-0e7d-4d6c-a0dc-2c8c29e749c8}" height="13.0884" itemRotation="0" frame="false" pagex="106.65">
+                <ComposerItem pagey="187.709" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="106.65" y="187.709" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="42.8262" outlineWidth="0.3" excludeFromExports="0" uuid="{ebc755d7-0e7d-4d6c-a0dc-2c8c29e749c8}" height="13.0882" itemRotation="0" frame="false" pagex="106.65">
                     <FrameColor alpha="255" red="0" blue="0" green="0"/>
                     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
                 </ComposerItem>
@@ -1166,7 +1168,7 @@
             <ComposerLabel valign="32" labelText="10.87375, 124.71079" htmlState="0" halign="1" margin="1">
                 <LabelFont description=".SF NS Text,10,-1,5,50,0,0,0,0,0"/>
                 <FontColor red="0" blue="0" green="0"/>
-                <ComposerItem pagey="200.443" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="80.8189" y="200.443" visibility="1" zValue="56" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="39.0893" outlineWidth="0.3" excludeFromExports="0" uuid="{a87a792c-8c5b-4825-89db-58dda169de60}" height="5.49844" itemRotation="0" frame="false" pagex="80.8189">
+                <ComposerItem pagey="200.443" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="80.8189" y="200.443" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="39.0893" outlineWidth="0.3" excludeFromExports="0" uuid="{a87a792c-8c5b-4825-89db-58dda169de60}" height="5.49844" itemRotation="0" frame="false" pagex="80.8189">
                     <FrameColor alpha="255" red="0" blue="0" green="0"/>
                     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
                 </ComposerItem>
@@ -1195,7 +1197,7 @@
                 </lineStyle>
                 <StartPoint x="57.5565" y="15.828"/>
                 <StopPoint x="104.081" y="17.2669"/>
-                <ComposerItem pagey="13.1209" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="54.8494" y="13.1209" visibility="1" zValue="55" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="51.939" outlineWidth="0.3" excludeFromExports="0" uuid="{4bf1fdb3-52c4-4fd3-9c06-9dd199712318}" height="6.85313" itemRotation="0" frame="false" pagex="54.8494">
+                <ComposerItem pagey="13.1209" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="54.8494" y="13.1209" visibility="1" zValue="4" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="51.9387" outlineWidth="0.3" excludeFromExports="0" uuid="{4bf1fdb3-52c4-4fd3-9c06-9dd199712318}" height="6.85311" itemRotation="0" frame="false" pagex="54.8494">
                     <FrameColor alpha="255" red="0" blue="0" green="0"/>
                     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
                 </ComposerItem>
@@ -1203,7 +1205,7 @@
             <ComposerLabel valign="32" labelText="10.87433, 124.71061" htmlState="0" halign="1" margin="1">
                 <LabelFont description=".SF NS Text,10,-1,5,50,0,0,0,0,0"/>
                 <FontColor red="0" blue="0" green="0"/>
-                <ComposerItem pagey="9.11311" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="42.3287" y="9.11311" visibility="1" zValue="54" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="37.1708" outlineWidth="0.3" excludeFromExports="0" uuid="{1fc8ca11-226f-48a1-b767-9e74044b925e}" height="5.49844" itemRotation="0" frame="false" pagex="42.3287">
+                <ComposerItem pagey="9.11311" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="42.3287" y="9.11311" visibility="1" zValue="3" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="37.1708" outlineWidth="0.3" excludeFromExports="0" uuid="{1fc8ca11-226f-48a1-b767-9e74044b925e}" height="5.49844" itemRotation="0" frame="false" pagex="42.3287">
                     <FrameColor alpha="255" red="0" blue="0" green="0"/>
                     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
                 </ComposerItem>
@@ -1213,13 +1215,13 @@
                 <fillColor2 alpha="255" red="255" blue="255" green="255"/>
                 <strokeColor alpha="255" red="0" blue="0" green="0"/>
                 <textColor alpha="255" red="0" blue="0" green="0"/>
-                <ComposerItem pagey="185.941" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="3" y="185.941" visibility="1" zValue="22" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="57.914" outlineWidth="0.3" excludeFromExports="0" uuid="{102f8ff4-8537-4c45-8bfe-f1782d4d2cdd}" height="20" itemRotation="0" frame="false" pagex="3">
+                <ComposerItem pagey="185.941" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="3" y="185.941" visibility="1" zValue="2" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="57.914" outlineWidth="0.3" excludeFromExports="0" uuid="{102f8ff4-8537-4c45-8bfe-f1782d4d2cdd}" height="20" itemRotation="0" frame="false" pagex="3">
                     <FrameColor alpha="255" red="0" blue="0" green="0"/>
                     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
                 </ComposerItem>
             </ComposerScaleBar>
             <ComposerMap mapRotation="0" keepLayerSet="false" id="1" previewMode="Cache" drawCanvasItems="true">
-                <Extent ymin="10.8736722113555011" xmin="124.71023132380099696" ymax="10.87439914236421856" xmax="124.71127133895700467"/>
+                <Extent ymin="10.8736722113555011" xmin="124.71023132380099696" ymax="10.87439914236419902" xmax="124.71127133895700467"/>
                 <LayerSet/>
                 <Grid/>
                 <ComposerMapGrid leftAnnotationDirection="0" annotationFont=".SF NS Text,13,-1,5,50,0,0,0,0,0" gridFramePenThickness="0.5" showAnnotation="0" bottomAnnotationDirection="0" bottomAnnotationPosition="1" name="Grid 1" gridStyle="0" intervalX="0" intervalY="0" gridFrameStyle="0" rightAnnotationPosition="1" topAnnotationDirection="0" leftAnnotationPosition="1" blendMode="0" show="0" frameFillColor1="255,255,255,255" gridFrameWidth="2" frameFillColor2="0,0,0,255" annotationFontColor="0,0,0,255" gridFrameSideFlags="15" gridFramePenColor="0,0,0,255" offsetX="0" annotationPrecision="3" offsetY="0" frameAnnotationDistance="1" unit="0" uuid="{f7852743-d826-42fe-bc1c-7b2c50755bff}" topAnnotationPosition="1" rightAnnotationDirection="0" annotationFormat="0" crossLength="3">
@@ -1269,7 +1271,7 @@
                     </markerStyle>
                 </ComposerMapGrid>
                 <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
-                <ComposerItem pagey="4" page="1" id="" lastValidViewScaleFactor="2.08491" positionMode="0" positionLock="false" x="3" y="4" visibility="1" zValue="9" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="289" outlineWidth="0.3" excludeFromExports="0" uuid="{d6bf66a4-c9c6-4f52-89e0-1adf710dcf03}" height="202" itemRotation="0" frame="false" pagex="3">
+                <ComposerItem pagey="4" page="1" id="" lastValidViewScaleFactor="2.08491" positionMode="0" positionLock="false" x="3" y="4" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="289" outlineWidth="0.3" excludeFromExports="0" uuid="{d6bf66a4-c9c6-4f52-89e0-1adf710dcf03}" height="202" itemRotation="0" frame="false" pagex="3">
                     <FrameColor alpha="255" red="0" blue="0" green="0"/>
                     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
                 </ComposerItem>
@@ -3617,10 +3619,10 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -11965,7 +11967,7 @@
         </maplayer>
         <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
             <id>gps4_3520180328140415402</id>
-            <datasource>/Users/macair/Philippines_Docs/field/data/gpx_trimmed/gps4_35.shp</datasource>
+            <datasource>./Trackfiles/2018/gps4_35.shp</datasource>
             <title></title>
             <abstract></abstract>
             <keywordList>
@@ -12083,10 +12085,10 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -17328,7 +17330,7 @@
         </maplayer>
         <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
             <id>gps5_3520180328140434205</id>
-            <datasource>/Users/macair/Philippines_Docs/field/data/gpx_trimmed/gps5_35.shp</datasource>
+            <datasource>./Trackfiles/2018/gps5_35.shp</datasource>
             <title></title>
             <abstract></abstract>
             <keywordList>
@@ -17446,10 +17448,10 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -17501,7 +17503,7 @@
         </maplayer>
         <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
             <id>gps5_3620180328140450655</id>
-            <datasource>/Users/macair/Philippines_Docs/field/data/gpx_trimmed/gps5_36.shp</datasource>
+            <datasource>./Trackfiles/2018/gps5_36.shp</datasource>
             <title></title>
             <abstract></abstract>
             <keywordList>
@@ -17619,10 +17621,10 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -20400,7 +20402,7 @@
         </maplayer>
         <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
             <id>gps6_3520180328140508093</id>
-            <datasource>/Users/macair/Philippines_Docs/field/data/gpx_trimmed/gps6_35.shp</datasource>
+            <datasource>./Trackfiles/2018/gps6_35.shp</datasource>
             <title></title>
             <abstract></abstract>
             <keywordList>
@@ -20515,10 +20517,10 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -20567,7 +20569,7 @@
         </maplayer>
         <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
             <id>gps6_3620180328140521774</id>
-            <datasource>/Users/macair/Philippines_Docs/field/data/gpx_trimmed/gps6_36.shp</datasource>
+            <datasource>./Trackfiles/2018/gps6_36.shp</datasource>
             <title></title>
             <abstract></abstract>
             <keywordList>
@@ -20682,10 +20684,10 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -22533,8 +22535,8 @@
             <DegreeFormat type="QString">D</DegreeFormat>
         </PositionPrecision>
         <WCSUrl type="QString"></WCSUrl>
-        <WMSServiceCapabilities type="bool">false</WMSServiceCapabilities>
         <WMSContactPhone type="QString"></WMSContactPhone>
+        <WMSServiceCapabilities type="bool">false</WMSServiceCapabilities>
         <WMSServiceAbstract type="QString"></WMSServiceAbstract>
         <WMSAddWktGeometry type="bool">false</WMSAddWktGeometry>
         <Measure>
