@@ -21,3 +21,8 @@ library(geosphere)
 # can change the a, b, and f parameters for a desired ellipsoid
 # see ?distVincentyEllipsoid for details
 mat <- distm(list1[,c('longitude','latitude')], list2[,c('longitude','latitude')], fun=distVincentyEllipsoid)
+
+# Create a distance column in meters from a data.frame that has both points 
+loc.df <- data.frame(lon1=list1$longitude, lat1=list1$latitude, 
+                     lon2=list2$longitude, lat2=list2$latitude)
+loc.df$dist <- distGeo(loc.df[,c('lon1', 'lat1')], loc.df[,c('lon2', 'lat2')])
